@@ -6,13 +6,13 @@
 To monitor and upload the light intensity value in the Things mate using Arduino controller.
 
 # Apparatus required:
-Arduino Controller  </br>
-Indoor gateway</br>
-LoRaWAN shield </br>
-LDR </br>
-Power supply </br>
-Connecting wires </br>
-Bread board </br>
+* Arduino Controller  </br>
+* Indoor gateway</br>
+* LoRaWAN shield </br>
+* LDR </br>
+* Power supply </br>
+* Connecting wires </br>
+* Bread board </br>
 
 # PROCEDURE:
 
