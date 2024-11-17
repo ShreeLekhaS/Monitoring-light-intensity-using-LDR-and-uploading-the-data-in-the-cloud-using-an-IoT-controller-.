@@ -95,9 +95,9 @@ char pass[] = "1234";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
-unsigned long myChannelNumber =  2487109;
+unsigned long myChannelNumber =  2749630;
 const int ChannelField = 1;
-const char * myWriteAPIKey = "4TL0XDHT9DBX1YD4";
+const char * myWriteAPIKey = "P66FEDSB9F4F0IE2";
 
 int ldrValue = 0;       // Variable to store raw analog value
 int lightPercentage = 0;
