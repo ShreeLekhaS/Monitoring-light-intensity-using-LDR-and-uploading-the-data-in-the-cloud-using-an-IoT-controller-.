@@ -147,7 +147,8 @@ void loop()
 ```
 
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2024-11-16 at 14 50 55_df52b1c0](https://github.com/user-attachments/assets/11030ca3-33f5-4e7e-a02f-922dd3521ee2)
+![WhatsApp Image 2024-11-16 at 14 50 55_1c2f904d](https://github.com/user-attachments/assets/ff4e3e1b-fc57-4872-97a4-688f2315be23)
+
 
 # OUTPUT:
 
