@@ -148,7 +148,8 @@ void loop()
 ![WhatsApp Image 2024-11-16 at 14 50 55_df52b1c0](https://github.com/user-attachments/assets/11030ca3-33f5-4e7e-a02f-922dd3521ee2)
 
 # OUTPUT:
-![WhatsApp Image 2024-11-16 at 15 01 56_c3774442](https://github.com/user-attachments/assets/d5f8bb87-f870-4efe-8846-bfd219ce5e83)
+
+![WhatsApp Image 2024-11-16 at 14 49 26_d1dc6b4f](https://github.com/user-attachments/assets/08670afa-08e8-4e28-a074-103df8477868)
 
 # RESULT:
 
